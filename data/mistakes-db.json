@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "last_updated": "2026-08-18",
+    "total_patterns_tracked": 3,
+    "language": "Japanese"
+  },
+  "error_patterns": {
+    "hiragana_vowel_e_i_confusion": {
+      "category": "spelling",
+      "subcategory": "hiragana_reading",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-08-18",
+      "last_occurred": "2026-08-18",
+      "next_review": "2026-08-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "koi",
+          "correct": "koe",
+          "context": "Reading こえ - misread え (e) as い (i)",
+          "date": "2026-08-18"
+        }
+      ],
+      "notes": "こい is a real word (carp/love), so this confusion produces valid-but-wrong words"
+    },
+    "self_intro_ritual_order": {
+      "category": "grammar",
+      "subcategory": "discourse_order",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-08-18",
+      "last_occurred": "2026-08-18",
+      "next_review": "2026-08-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "watashi wa P desu, hajimemashite, douzo yoroshiku",
+          "correct": "hajimemashite, watashi wa P desu, douzo yoroshiku",
+          "context": "Three-line self-introduction - hajimemashite must open",
+          "date": "2026-08-18"
+        }
+      ],
+      "notes": ""
+    },
+    "vocab_kawaii_meaning": {
+      "category": "vocabulary",
+      "subcategory": "adjectives",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.3,
+      "last_seen": "2026-08-18",
+      "last_occurred": "2026-08-18",
+      "next_review": "2026-08-19",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "character",
+          "correct": "cute",
+          "context": "Warm-up loanword recognition",
+          "date": "2026-08-18"
+        }
+      ],
+      "notes": ""
+    }
+  }
+}

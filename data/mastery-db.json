@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "last_updated": "2026-08-18",
+    "language": "Japanese"
+  },
+  "skills": {
+    "writing": {
+      "mastery_level": 1,
+      "confidence_score": 0.75,
+      "total_practice_time": 4,
+      "last_practiced": "2026-08-18",
+      "practice_count": 4,
+      "avg_accuracy": 0.75
+    },
+    "speaking": {
+      "mastery_level": 0,
+      "confidence_score": 0.0,
+      "total_practice_time": 0,
+      "last_practiced": null
+    },
+    "vocabulary": {
+      "mastery_level": 1,
+      "confidence_score": 0.6,
+      "total_practice_time": 3,
+      "last_practiced": "2026-08-18",
+      "practice_count": 5,
+      "avg_accuracy": 0.6
+    },
+    "reading": {
+      "mastery_level": 1,
+      "confidence_score": 0.75,
+      "total_practice_time": 5,
+      "last_practiced": "2026-08-18",
+      "practice_count": 4,
+      "avg_accuracy": 0.75
+    },
+    "listening": {
+      "mastery_level": 0,
+      "confidence_score": 0.0,
+      "total_practice_time": 0,
+      "last_practiced": null
+    }
+  },
+  "patterns": {},
+  "mastery_scale": {
+    "0": "Not started",
+    "1": "Just started (⭐☆☆☆☆)",
+    "2": "Learning (⭐⭐☆☆☆)",
+    "3": "Good understanding (⭐⭐⭐☆☆)",
+    "4": "Strong skill (⭐⭐⭐⭐☆)",
+    "5": "Mastered! (⭐⭐⭐⭐⭐)"
+  }
+}

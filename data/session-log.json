@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "language": "Japanese",
+    "learner_name": "P",
+    "total_sessions": 1
+  },
+  "sessions": [
+    {
+      "session_id": "session-001",
+      "date": "2026-08-18",
+      "duration_minutes": 12,
+      "skills_practiced": [
+        "vocabulary",
+        "reading",
+        "writing"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 13,
+      "accuracy": 0.692,
+      "score_breakdown": {
+        "vocabulary": 0.6,
+        "reading": 0.75,
+        "writing": 0.75
+      },
+      "topics_covered": [
+        "hiragana_vowels",
+        "hiragana_ka_row",
+        "desu_copula",
+        "wa_topic_particle",
+        "ka_question_particle",
+        "self_introduction",
+        "loanword_recognition"
+      ],
+      "breakthroughs": [
+        "Read first Japanese words from zero - 10 hiragana characters and 4 real words in one session",
+        "Produced the A wa B desu pattern perfectly on first attempt, with correct verb-final word order and no English article interference",
+        "Generalized the ka question particle from a stated rule alone, with no worked example"
+      ],
+      "focus_next_session": [
+        "Finish hiragana sa/ta/na rows",
+        "Drill e/i/o vowel discrimination specifically",
+        "Extend desu to negative form ja nai desu",
+        "Re-drill the hajimemashite-first self-introduction order"
+      ],
+      "notes": "First ever session. Accuracy 69% (9/13 items), mean score 8.0/10, trending 6 to 8 to 10 to 8 across blocks. Strongest signal: rule generalization on the ka particle with no example given. Weakest: rote-ritual ordering and vowel discrimination. Difficulty raised twice mid-session as accuracy climbed past 70%.",
+      "achievements_earned": [],
+      "streak_day": 1
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2026-08-18",
+      "milestone": "Completed first Japanese learning session",
+      "session_id": "session-001"
+    },
+    {
+      "date": "2026-08-18",
+      "milestone": "Learned first 10 hiragana characters",
+      "session_id": "session-001"
+    }
+  ]
+}

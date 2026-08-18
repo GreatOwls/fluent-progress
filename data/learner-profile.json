@@ -1,0 +1,90 @@
+{
+  "learner": {
+    "name": "P",
+    "native_language": "English",
+    "other_languages": [
+      "Thai"
+    ],
+    "target_language": "Japanese",
+    "current_level": "A1",
+    "target_level": "B1",
+    "daily_goal_minutes": 60,
+    "learning_style": "balanced",
+    "motivation": "personal"
+  },
+  "profile_created": "2026-08-18",
+  "last_updated": "2026-08-18",
+  "current_streak_days": 1,
+  "total_sessions": 1,
+  "total_study_minutes": 12,
+  "skills": {
+    "writing": {
+      "current_level": 1,
+      "confidence": 22,
+      "last_practiced": "2026-08-18",
+      "total_practice_time": 4
+    },
+    "speaking": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    },
+    "vocabulary": {
+      "current_level": 1,
+      "confidence": 18,
+      "last_practiced": "2026-08-18",
+      "total_practice_time": 3
+    },
+    "reading": {
+      "current_level": 1,
+      "confidence": 22,
+      "last_practiced": "2026-08-18",
+      "total_practice_time": 5
+    },
+    "listening": {
+      "current_level": 0,
+      "confidence": 0,
+      "last_practiced": null,
+      "total_practice_time": 0
+    }
+  },
+  "focus_areas": [],
+  "achievements": [
+    {
+      "id": "profile_created",
+      "name": "Getting Started",
+      "earned_date": "2026-08-18",
+      "description": "Created your learning profile"
+    },
+    {
+      "id": "session_session-001_0_completed_first_japanese_learn",
+      "name": "Completed first Japanese learning session",
+      "earned_date": "2026-08-18",
+      "description": "Completed first Japanese learning session"
+    },
+    {
+      "id": "session_session-001_1_learned_first_10_hiragana_char",
+      "name": "Learned first 10 hiragana characters",
+      "earned_date": "2026-08-18",
+      "description": "Learned first 10 hiragana characters"
+    }
+  ],
+  "preferences": {
+    "difficulty_preference": "adaptive",
+    "exercise_types_preferred": [
+      "conversation",
+      "writing",
+      "quick_drills"
+    ],
+    "feedback_style": "immediate_with_explanation",
+    "gamification_enabled": true,
+    "use_emojis": true
+  },
+  "plan": {
+    "timeline_target_months": 6,
+    "estimated_months": 7.5,
+    "estimated_hours": 225,
+    "target_date": "2027-04-02"
+  }
+}
