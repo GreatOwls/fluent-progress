@@ -1,34 +1,36 @@
 {
   "metadata": {
     "algorithm": "SM-2",
-    "last_updated": "2026-08-18",
-    "total_items_tracked": 21,
+    "last_updated": "2026-08-19",
+    "total_items_tracked": 22,
     "language": "Japanese"
   },
   "review_queue": {
-    "today": [],
-    "tomorrow": [
+    "today": [
       "vocab_sushi",
       "vocab_karate",
       "vocab_tsunami",
       "vocab_kawaii",
       "vocab_sensei",
+      "vocab_kiku",
+      "grammar_wa_particle",
+      "grammar_ka_question",
+      "hiragana_vowel_row",
+      "hiragana_ka_row",
+      "vocab_kawaii_meaning"
+    ],
+    "tomorrow": [
       "vocab_aka",
       "vocab_ike",
       "vocab_koe",
-      "vocab_kiku",
       "vocab_watashi",
       "vocab_kore",
       "vocab_hajimemashite",
       "vocab_douzo_yoroshiku",
       "grammar_desu_pattern",
-      "grammar_wa_particle",
-      "grammar_ka_question",
-      "hiragana_vowel_row",
-      "hiragana_ka_row",
       "hiragana_vowel_e_i_confusion",
       "self_intro_ritual_order",
-      "vocab_kawaii_meaning"
+      "vocab_koi"
     ],
     "this_week": [],
     "later": []
@@ -142,17 +144,24 @@
       "category": "colors",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 4,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_ike": {
       "id": "vocab_ike",
@@ -162,17 +171,24 @@
       "category": "nature",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.36,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 4,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 3,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 3,
+          "score": 0
+        }
+      ]
     },
     "vocab_koe": {
       "id": "vocab_koe",
@@ -182,17 +198,24 @@
       "category": "body_and_senses",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
+      "consecutive_incorrect": 1,
+      "last_reviewed": "2026-08-19",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "vocab_kiku": {
       "id": "vocab_kiku",
@@ -222,17 +245,24 @@
       "category": "pronouns",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 5,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "vocab_kore": {
       "id": "vocab_kore",
@@ -242,17 +272,24 @@
       "category": "demonstratives",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
+      "last_reviewed": "2026-08-19",
       "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "vocab_hajimemashite": {
       "id": "vocab_hajimemashite",
@@ -262,17 +299,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 3,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_douzo_yoroshiku": {
       "id": "vocab_douzo_yoroshiku",
@@ -282,17 +326,24 @@
       "category": "greetings",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 4,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "medium"
+      "total_reviews": 1,
+      "priority": "medium",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "grammar_desu_pattern": {
       "id": "grammar_desu_pattern",
@@ -302,17 +353,24 @@
       "category": "sentence_patterns",
       "difficulty": "A1",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
+      "repetitions": 1,
       "easiness_factor": 2.5,
-      "consecutive_correct": 0,
+      "consecutive_correct": 1,
       "consecutive_incorrect": 0,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 5,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 4,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 4,
+          "score": 0
+        }
+      ]
     },
     "grammar_wa_particle": {
       "id": "grammar_wa_particle",
@@ -402,17 +460,24 @@
       "category": "spelling",
       "difficulty": "",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
       "repetitions": 0,
-      "easiness_factor": 2.5,
+      "easiness_factor": 2.18,
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-08-18",
+      "consecutive_incorrect": 2,
+      "last_reviewed": "2026-08-19",
       "last_quality": 2,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 2,
+          "score": 0
+        }
+      ]
     },
     "self_intro_ritual_order": {
       "id": "self_intro_ritual_order",
@@ -422,17 +487,24 @@
       "category": "grammar",
       "difficulty": "",
       "created_date": "2026-08-18",
-      "due_date": "2026-08-19",
+      "due_date": "2026-08-20",
       "interval_days": 1,
-      "repetitions": 0,
-      "easiness_factor": 2.5,
-      "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
-      "last_reviewed": "2026-08-18",
-      "last_quality": 2,
+      "repetitions": 1,
+      "easiness_factor": 2.6,
+      "consecutive_correct": 1,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 5,
       "mastery_level": 0,
-      "total_reviews": 0,
-      "priority": "high"
+      "total_reviews": 1,
+      "priority": "high",
+      "review_history": [
+        {
+          "date": "2026-08-19",
+          "quality": 5,
+          "score": 0
+        }
+      ]
     },
     "vocab_kawaii_meaning": {
       "id": "vocab_kawaii_meaning",
@@ -450,6 +522,26 @@
       "consecutive_incorrect": 1,
       "last_reviewed": "2026-08-18",
       "last_quality": 2,
+      "mastery_level": 0,
+      "total_reviews": 0,
+      "priority": "high"
+    },
+    "vocab_koi": {
+      "id": "vocab_koi",
+      "type": "vocabulary",
+      "content": "こい (koi)",
+      "answer": "carp / love - the contrast word for koe",
+      "category": "minimal_pairs",
+      "difficulty": "A1",
+      "created_date": "2026-08-19",
+      "due_date": "2026-08-20",
+      "interval_days": 1,
+      "repetitions": 0,
+      "easiness_factor": 2.5,
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 0,
+      "last_reviewed": "2026-08-19",
+      "last_quality": 3,
       "mastery_level": 0,
       "total_reviews": 0,
       "priority": "high"

@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Japanese",
     "learner_name": "P",
-    "total_sessions": 1
+    "total_sessions": 2
   },
   "sessions": [
     {
@@ -45,6 +45,46 @@
       "notes": "First ever session. Accuracy 69% (9/13 items), mean score 8.0/10, trending 6 to 8 to 10 to 8 across blocks. Strongest signal: rule generalization on the ka particle with no example given. Weakest: rote-ritual ordering and vowel discrimination. Difficulty raised twice mid-session as accuracy climbed past 70%.",
       "achievements_earned": [],
       "streak_day": 1
+    },
+    {
+      "session_id": "session-002",
+      "date": "2026-08-19",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "vocabulary",
+        "reading",
+        "writing"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 5,
+      "accuracy": 0.6,
+      "score_breakdown": {
+        "vocabulary": 1.0,
+        "reading": 0.5,
+        "writing": 0.5
+      },
+      "topics_covered": [
+        "e_i_minimal_pairs",
+        "hiragana_vowel_discrimination",
+        "self_introduction_order",
+        "sentence_reordering",
+        "error_correction",
+        "kore_wa_X_desu"
+      ],
+      "breakthroughs": [
+        "Fixed the hajimemashite-first self-introduction order unprompted - the exact pattern missed in session-001",
+        "Produced koe correctly from scratch two exercises after misidentifying it, while keeping ike distinct in the same task",
+        "Identified the differing character in the koi/koe pair correctly even when choosing the wrong word, showing the distinction is understood before it is reliable"
+      ],
+      "focus_next_session": [
+        "Proofreading drills - spot e/i errors inside full sentences without being told where to look",
+        "Finish hiragana sa/ta/na rows (carried over from session-001)",
+        "Extend desu to the negative ja nai desu",
+        "Clear the review backlog - 21 items due against a 20/day cap"
+      ],
+      "notes": "Second session, adaptive mix. 5 exercises, 3 correct (60%), mean score 7.8/10, trending 9 - 4 - 10 - 10 - 6. Both tracked error patterns were targeted directly. self_intro_ritual_order is now corrected twice unprompted and looks solid. hiragana_vowel_e_i_confusion split cleanly: correct when told where to look (Ex3, 10/10), missed when scanning a full sentence (Ex5). Production is ahead of proofreading - next session should drill error-spotting in context rather than isolated pairs. One instruction slip on Ex1 (gave the reading when asked for the meaning), not a language error.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -57,6 +97,16 @@
       "date": "2026-08-18",
       "milestone": "Learned first 10 hiragana characters",
       "session_id": "session-001"
+    },
+    {
+      "date": "2026-08-19",
+      "milestone": "Corrected first tracked error pattern (self-introduction order)",
+      "session_id": "session-002"
+    },
+    {
+      "date": "2026-08-19",
+      "milestone": "Reached a 2-day streak",
+      "session_id": "session-002"
     }
   ]
 }

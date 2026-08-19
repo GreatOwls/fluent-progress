@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "total_patterns_tracked": 3,
     "language": "Japanese"
   },
@@ -10,23 +10,35 @@
       "subcategory": "hiragana_reading",
       "description": "",
       "severity": "moderate",
-      "frequency": 1,
+      "frequency": 3,
       "mastery_level": 0,
       "difficulty_score": 0.5,
-      "last_seen": "2026-08-18",
-      "last_occurred": "2026-08-18",
-      "next_review": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "last_occurred": "2026-08-19",
+      "next_review": "2026-08-20",
       "consecutive_correct": 0,
-      "consecutive_incorrect": 1,
+      "consecutive_incorrect": 3,
       "examples": [
         {
           "incorrect": "koi",
           "correct": "koe",
           "context": "Reading こえ - misread え (e) as い (i)",
           "date": "2026-08-18"
+        },
+        {
+          "incorrect": "koi",
+          "correct": "koe",
+          "context": "Minimal-pair discrimination: asked which of koi/koe means 'voice'",
+          "date": "2026-08-19"
+        },
+        {
+          "incorrect": "eke",
+          "correct": "ike",
+          "context": "Integration error-hunt: failed to spot eke (non-word) for ike in a four-line self-introduction",
+          "date": "2026-08-19"
         }
       ],
-      "notes": "こい is a real word (carp/love), so this confusion produces valid-but-wrong words"
+      "notes": "Missed while scanning unprompted, despite producing ike correctly two exercises earlier. Recognition-in-context lags production."
     },
     "self_intro_ritual_order": {
       "category": "grammar",

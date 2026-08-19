@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "language": "Japanese"
   },
   "skills": {
     "writing": {
       "mastery_level": 1,
-      "confidence_score": 0.75,
-      "total_practice_time": 4,
-      "last_practiced": "2026-08-18",
-      "practice_count": 4,
-      "avg_accuracy": 0.75
+      "confidence_score": 0.625,
+      "total_practice_time": 10,
+      "last_practiced": "2026-08-19",
+      "practice_count": 6,
+      "avg_accuracy": 0.625
     },
     "speaking": {
       "mastery_level": 0,
@@ -20,19 +20,19 @@
     },
     "vocabulary": {
       "mastery_level": 1,
-      "confidence_score": 0.6,
-      "total_practice_time": 3,
-      "last_practiced": "2026-08-18",
-      "practice_count": 5,
-      "avg_accuracy": 0.6
+      "confidence_score": 0.8,
+      "total_practice_time": 6,
+      "last_practiced": "2026-08-19",
+      "practice_count": 6,
+      "avg_accuracy": 0.8
     },
     "reading": {
       "mastery_level": 1,
-      "confidence_score": 0.75,
-      "total_practice_time": 5,
-      "last_practiced": "2026-08-18",
-      "practice_count": 4,
-      "avg_accuracy": 0.75
+      "confidence_score": 0.625,
+      "total_practice_time": 11,
+      "last_practiced": "2026-08-19",
+      "practice_count": 6,
+      "avg_accuracy": 0.625
     },
     "listening": {
       "mastery_level": 0,

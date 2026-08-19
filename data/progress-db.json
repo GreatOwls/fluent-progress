@@ -1,33 +1,38 @@
 {
   "metadata": {
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "language": "Japanese",
     "tracking_started": "2026-08-18"
   },
   "overall_stats": {
-    "total_sessions": 1,
-    "total_exercises": 13,
-    "total_correct": 9,
-    "total_incorrect": 4,
-    "accuracy_rate": 0.692,
-    "total_study_minutes": 12,
-    "average_session_duration": 12
+    "total_sessions": 2,
+    "total_exercises": 18,
+    "total_correct": 12,
+    "total_incorrect": 6,
+    "accuracy_rate": 0.667,
+    "total_study_minutes": 27,
+    "average_session_duration": 14
   },
   "accuracy_trend": [
     {
       "date": "2026-08-18",
       "accuracy": 0.692,
       "exercises": 13
+    },
+    {
+      "date": "2026-08-19",
+      "accuracy": 0.6,
+      "exercises": 5
     }
   ],
   "skill_progress": {
     "writing": {
-      "sessions": 1,
-      "accuracy": 0.75,
-      "last_practiced": "2026-08-18",
-      "exercises_completed": 4,
-      "correct_count": 3,
-      "incorrect_count": 1
+      "sessions": 2,
+      "accuracy": 0.625,
+      "last_practiced": "2026-08-19",
+      "exercises_completed": 6,
+      "correct_count": 4,
+      "incorrect_count": 2
     },
     "speaking": {
       "sessions": 0,
@@ -35,20 +40,20 @@
       "last_practiced": null
     },
     "vocabulary": {
-      "sessions": 1,
-      "accuracy": 0.6,
-      "last_practiced": "2026-08-18",
-      "exercises_completed": 5,
-      "correct_count": 3,
+      "sessions": 2,
+      "accuracy": 0.8,
+      "last_practiced": "2026-08-19",
+      "exercises_completed": 6,
+      "correct_count": 4,
       "incorrect_count": 2
     },
     "reading": {
-      "sessions": 1,
-      "accuracy": 0.75,
-      "last_practiced": "2026-08-18",
-      "exercises_completed": 4,
-      "correct_count": 3,
-      "incorrect_count": 1
+      "sessions": 2,
+      "accuracy": 0.625,
+      "last_practiced": "2026-08-19",
+      "exercises_completed": 6,
+      "correct_count": 4,
+      "incorrect_count": 2
     },
     "listening": {
       "sessions": 0,
@@ -59,9 +64,9 @@
   "weekly_summary": [
     {
       "week_start": "2026-08-17",
-      "sessions": 1,
-      "total_minutes": 12,
-      "accuracy": 0.692
+      "sessions": 2,
+      "total_minutes": 27,
+      "accuracy": 0.646
     }
   ]
 }

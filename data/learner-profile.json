@@ -13,16 +13,16 @@
     "motivation": "personal"
   },
   "profile_created": "2026-08-18",
-  "last_updated": "2026-08-18",
-  "current_streak_days": 1,
-  "total_sessions": 1,
-  "total_study_minutes": 12,
+  "last_updated": "2026-08-19",
+  "current_streak_days": 2,
+  "total_sessions": 2,
+  "total_study_minutes": 27,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 22,
-      "last_practiced": "2026-08-18",
-      "total_practice_time": 4
+      "confidence": 30,
+      "last_practiced": "2026-08-19",
+      "total_practice_time": 10
     },
     "speaking": {
       "current_level": 0,
@@ -32,15 +32,15 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 18,
-      "last_practiced": "2026-08-18",
-      "total_practice_time": 3
+      "confidence": 43,
+      "last_practiced": "2026-08-19",
+      "total_practice_time": 6
     },
     "reading": {
       "current_level": 1,
-      "confidence": 22,
-      "last_practiced": "2026-08-18",
-      "total_practice_time": 5
+      "confidence": 30,
+      "last_practiced": "2026-08-19",
+      "total_practice_time": 11
     },
     "listening": {
       "current_level": 0,
@@ -68,6 +68,18 @@
       "name": "Learned first 10 hiragana characters",
       "earned_date": "2026-08-18",
       "description": "Learned first 10 hiragana characters"
+    },
+    {
+      "id": "session_session-002_0_corrected_first_tracked_error",
+      "name": "Corrected first tracked error pattern (self-introduction order)",
+      "earned_date": "2026-08-19",
+      "description": "Corrected first tracked error pattern (self-introduction order)"
+    },
+    {
+      "id": "session_session-002_1_reached_a_2_day_streak",
+      "name": "Reached a 2-day streak",
+      "earned_date": "2026-08-19",
+      "description": "Reached a 2-day streak"
     }
   ],
   "preferences": {
