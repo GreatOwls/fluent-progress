@@ -1,7 +1,7 @@
 {
   "metadata": {
     "last_updated": "2026-08-19",
-    "total_patterns_tracked": 3,
+    "total_patterns_tracked": 4,
     "language": "Japanese"
   },
   "error_patterns": {
@@ -85,6 +85,29 @@
         }
       ],
       "notes": ""
+    },
+    "katakana_loanword_interpretation": {
+      "category": "vocabulary",
+      "subcategory": "loanwords",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 1,
+      "mastery_level": 0,
+      "difficulty_score": 0.4,
+      "last_seen": "2026-08-19",
+      "last_occurred": "2026-08-19",
+      "next_review": "2026-08-20",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 1,
+      "examples": [
+        {
+          "incorrect": "key",
+          "correct": "kiwi",
+          "context": "Decoded キウイ correctly as ki-u-i, then gave the shape mnemonic (ki = key) as the meaning instead of un-stretching to kiwi",
+          "date": "2026-08-19"
+        }
+      ],
+      "notes": "Mnemonic interference - the shape hook followed the learner into the meaning slot. Decoding was flawless; only the English mapping failed."
     }
   }
 }

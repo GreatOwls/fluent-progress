@@ -19,20 +19,20 @@
       "last_practiced": null
     },
     "vocabulary": {
-      "mastery_level": 1,
-      "confidence_score": 0.8,
-      "total_practice_time": 6,
+      "mastery_level": 2,
+      "confidence_score": 0.756,
+      "total_practice_time": 13,
       "last_practiced": "2026-08-19",
-      "practice_count": 6,
-      "avg_accuracy": 0.8
+      "practice_count": 9,
+      "avg_accuracy": 0.756
     },
     "reading": {
-      "mastery_level": 1,
-      "confidence_score": 0.625,
-      "total_practice_time": 11,
+      "mastery_level": 2,
+      "confidence_score": 0.75,
+      "total_practice_time": 19,
       "last_practiced": "2026-08-19",
-      "practice_count": 6,
-      "avg_accuracy": 0.625
+      "practice_count": 9,
+      "avg_accuracy": 0.75
     },
     "listening": {
       "mastery_level": 0,

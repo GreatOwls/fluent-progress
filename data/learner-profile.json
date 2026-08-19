@@ -15,8 +15,8 @@
   "profile_created": "2026-08-18",
   "last_updated": "2026-08-19",
   "current_streak_days": 2,
-  "total_sessions": 2,
-  "total_study_minutes": 27,
+  "total_sessions": 3,
+  "total_study_minutes": 42,
   "skills": {
     "writing": {
       "current_level": 1,
@@ -32,15 +32,15 @@
     },
     "vocabulary": {
       "current_level": 1,
-      "confidence": 43,
+      "confidence": 50,
       "last_practiced": "2026-08-19",
-      "total_practice_time": 6
+      "total_practice_time": 13
     },
     "reading": {
       "current_level": 1,
-      "confidence": 30,
+      "confidence": 51,
       "last_practiced": "2026-08-19",
-      "total_practice_time": 11
+      "total_practice_time": 19
     },
     "listening": {
       "current_level": 0,
@@ -80,6 +80,24 @@
       "name": "Reached a 2-day streak",
       "earned_date": "2026-08-19",
       "description": "Reached a 2-day streak"
+    },
+    {
+      "id": "session_session-003_0_learned_the_katakana_vowel_and",
+      "name": "Learned the katakana vowel and ka rows (10 characters)",
+      "earned_date": "2026-08-19",
+      "description": "Learned the katakana vowel and ka rows (10 characters)"
+    },
+    {
+      "id": "session_session-003_1_read_first_mixed_script_japane",
+      "name": "Read first mixed-script Japanese sentence",
+      "earned_date": "2026-08-19",
+      "description": "Read first mixed-script Japanese sentence"
+    },
+    {
+      "id": "session_session-003_2_reached_a_3_day_streak",
+      "name": "Reached a 3-day streak",
+      "earned_date": "2026-08-19",
+      "description": "Reached a 3-day streak"
     }
   ],
   "preferences": {

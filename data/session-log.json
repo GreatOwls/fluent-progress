@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Japanese",
     "learner_name": "P",
-    "total_sessions": 2
+    "total_sessions": 3
   },
   "sessions": [
     {
@@ -85,6 +85,44 @@
       "notes": "Second session, adaptive mix. 5 exercises, 3 correct (60%), mean score 7.8/10, trending 9 - 4 - 10 - 10 - 6. Both tracked error patterns were targeted directly. self_intro_ritual_order is now corrected twice unprompted and looks solid. hiragana_vowel_e_i_confusion split cleanly: correct when told where to look (Ex3, 10/10), missed when scanning a full sentence (Ex5). Production is ahead of proofreading - next session should drill error-spotting in context rather than isolated pairs. One instruction slip on Ex1 (gave the reading when asked for the meaning), not a language error.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-003",
+      "date": "2026-08-19",
+      "duration_minutes": 15,
+      "skills_practiced": [
+        "reading",
+        "vocabulary"
+      ],
+      "command_used": "/fluent-learn",
+      "exercises_completed": 6,
+      "accuracy": 0.833,
+      "score_breakdown": {
+        "reading": 1.0,
+        "vocabulary": 0.667
+      },
+      "topics_covered": [
+        "katakana_vowel_row",
+        "katakana_ka_row",
+        "chouonpu_long_mark",
+        "loanword_un_stretching",
+        "mixed_script_reading"
+      ],
+      "breakthroughs": [
+        "Learned 10 katakana plus the long mark in one 15-minute session at 83% accuracy, transferring from already-known hiragana sounds",
+        "Read a mixed-script sentence (kore wa kakao desu) unaided, combining session-002 grammar with a brand-new katakana word",
+        "Internalized the loanword un-stretch technique one exercise after it was taught - skipped the intermediate syllable step on kokoa and went straight to cocoa",
+        "Read the katakana e/i pair (E and I) correctly every time, the twins of the hiragana pair that cost points in both previous sessions"
+      ],
+      "focus_next_session": [
+        "Hiragana sa/ta/na rows - now two sessions overdue and the gap to katakana is widening",
+        "Clear the review backlog - 11 items were due today and went untouched",
+        "e/i discrimination in hiragana proofreading context - still unresolved from session-002",
+        "More katakana rows (sa/ta/na) once hiragana has caught up"
+      ],
+      "notes": "Learner-requested katakana session, off the recommended plan. 6 exercises, 5 correct (83%), mean 9.2/10, trend 10-10-6-9-10-10. Strongest session so far by accuracy. Sound-to-shape transfer from hiragana was the whole story: vowel row read at 100% on first contact, scrambled order also 100%. Only miss was mnemonic interference on kiui - decoding perfect, meaning slot contaminated by the ki=key shape hook I supplied; note to self to retire shape mnemonics once a character is automatic. Katakana E/I handled correctly throughout, which is suggestive but not proof that the hiragana e/i pattern is resolved - it was not tested in hiragana this session, so that pattern stays open. Two debts growing: hiragana sa/ta/na untouched for two sessions, and 11 due reviews skipped.",
+      "achievements_earned": [],
+      "streak_day": 2
     }
   ],
   "milestones": [
@@ -107,6 +145,21 @@
       "date": "2026-08-19",
       "milestone": "Reached a 2-day streak",
       "session_id": "session-002"
+    },
+    {
+      "date": "2026-08-19",
+      "milestone": "Learned the katakana vowel and ka rows (10 characters)",
+      "session_id": "session-003"
+    },
+    {
+      "date": "2026-08-19",
+      "milestone": "Read first mixed-script Japanese sentence",
+      "session_id": "session-003"
+    },
+    {
+      "date": "2026-08-19",
+      "milestone": "Reached a 3-day streak",
+      "session_id": "session-003"
     }
   ]
 }
