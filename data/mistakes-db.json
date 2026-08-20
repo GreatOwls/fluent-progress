@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-08-19",
-    "total_patterns_tracked": 4,
+    "last_updated": "2026-08-20",
+    "total_patterns_tracked": 5,
     "language": "Japanese"
   },
   "error_patterns": {
@@ -108,6 +108,35 @@
         }
       ],
       "notes": "Mnemonic interference - the shape hook followed the learner into the meaning slot. Decoding was flawless; only the English mapping failed."
+    },
+    "compound_word_etymology": {
+      "category": "vocabulary",
+      "subcategory": "etymology",
+      "description": "",
+      "severity": "moderate",
+      "frequency": 2,
+      "mastery_level": 0,
+      "difficulty_score": 0.5,
+      "last_seen": "2026-08-20",
+      "last_occurred": "2026-08-20",
+      "next_review": "2026-08-21",
+      "consecutive_correct": 0,
+      "consecutive_incorrect": 2,
+      "examples": [
+        {
+          "incorrect": "I don't know",
+          "correct": "empty hand (kara = empty, te = hand)",
+          "context": "Asked the literal meaning of karate during spaced review",
+          "date": "2026-08-20"
+        },
+        {
+          "incorrect": "big wave",
+          "correct": "harbour wave (tsu = harbour, nami = wave)",
+          "context": "Asked the literal meaning of tsunami with the second element (nami = wave) supplied as scaffolding",
+          "date": "2026-08-20"
+        }
+      ],
+      "notes": "Guessed a plausible but wrong first element even with half the compound given. Same gap as the karate item, one exercise apart."
     }
   }
 }

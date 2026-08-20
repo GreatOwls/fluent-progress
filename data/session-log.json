@@ -2,7 +2,7 @@
   "metadata": {
     "language": "Japanese",
     "learner_name": "P",
-    "total_sessions": 3
+    "total_sessions": 4
   },
   "sessions": [
     {
@@ -123,6 +123,50 @@
       "notes": "Learner-requested katakana session, off the recommended plan. 6 exercises, 5 correct (83%), mean 9.2/10, trend 10-10-6-9-10-10. Strongest session so far by accuracy. Sound-to-shape transfer from hiragana was the whole story: vowel row read at 100% on first contact, scrambled order also 100%. Only miss was mnemonic interference on kiui - decoding perfect, meaning slot contaminated by the ki=key shape hook I supplied; note to self to retire shape mnemonics once a character is automatic. Katakana E/I handled correctly throughout, which is suggestive but not proof that the hiragana e/i pattern is resolved - it was not tested in hiragana this session, so that pattern stays open. Two debts growing: hiragana sa/ta/na untouched for two sessions, and 11 due reviews skipped.",
       "achievements_earned": [],
       "streak_day": 2
+    },
+    {
+      "session_id": "session-004",
+      "date": "2026-08-20",
+      "duration_minutes": 12,
+      "skills_practiced": [
+        "vocabulary",
+        "reading",
+        "writing"
+      ],
+      "command_used": "/fluent-review",
+      "exercises_completed": 11,
+      "accuracy": 0.727,
+      "score_breakdown": {
+        "vocabulary": 0.5,
+        "reading": 1.0,
+        "writing": 1.0
+      },
+      "topics_covered": [
+        "spaced_repetition_review",
+        "wa_topic_particle",
+        "ka_question_particle",
+        "hiragana_vowel_row",
+        "hiragana_katakana_script_discrimination",
+        "i_adjectives",
+        "script_choice_native_vs_loanword",
+        "compound_word_etymology"
+      ],
+      "breakthroughs": [
+        "Cleared every high-priority item in the queue, including the two weakest cards from session-001 (kawaii scored 1/5 yesterday, produced correctly from English today)",
+        "Closed the vocab_kawaii_meaning error pattern in context - built kore wa kawaii desu unaided with correct particle and copula",
+        "Sorted hiragana from katakana on the ka row with zero hesitation, one session after first meeting katakana",
+        "Applied the katakana-is-for-loanwords rule to sushi unprompted, correctly reasoning that a native word takes hiragana",
+        "Read the hiragana e/i pair correctly in scrambled order, confirming the isolation half of that pattern is solid"
+      ],
+      "focus_next_session": [
+        "vocab_kiku - both meanings (to listen / chrysanthemum) unknown, reset to 1 day",
+        "Compound word etymology - two failures in one session (karate, tsunami); teach kanji components rather than whole-word glosses",
+        "Clear the review backlog - 17 items still due today after this session",
+        "Hiragana sa/ta/na rows - now three sessions overdue"
+      ],
+      "notes": "Review session, 11 items cleared out of a queue that grew to 28 mid-session as the date rolled to 2026-08-20. 8/11 correct (73%), mean 7.9/10. Clean split by item type: everything structural was perfect (both grammar particles 5/5, both character rows 5/5, script discrimination 5/5, i-adjective usage 5/5) while three of the four semantic-depth items failed. The learner knows what karate and tsunami ARE but not what they are MADE OF, and kiku's meanings were simply absent. New pattern logged: compound_word_etymology. Two honest 'I don't know' answers rather than polite guesses - that is the behaviour the algorithm needs and it should be reinforced. Note on the e/i pattern: read correctly in scrambled isolation today, but still never tested in a proofreading context, so it stays open.",
+      "achievements_earned": [],
+      "streak_day": 3
     }
   ],
   "milestones": [
@@ -160,6 +204,16 @@
       "date": "2026-08-19",
       "milestone": "Reached a 3-day streak",
       "session_id": "session-003"
+    },
+    {
+      "date": "2026-08-20",
+      "milestone": "First full spaced-repetition review session completed",
+      "session_id": "session-004"
+    },
+    {
+      "date": "2026-08-20",
+      "milestone": "Reached a 3-day streak",
+      "session_id": "session-004"
     }
   ]
 }

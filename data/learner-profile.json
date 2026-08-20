@@ -13,16 +13,16 @@
     "motivation": "personal"
   },
   "profile_created": "2026-08-18",
-  "last_updated": "2026-08-19",
-  "current_streak_days": 2,
-  "total_sessions": 3,
-  "total_study_minutes": 42,
+  "last_updated": "2026-08-20",
+  "current_streak_days": 3,
+  "total_sessions": 4,
+  "total_study_minutes": 54,
   "skills": {
     "writing": {
       "current_level": 1,
-      "confidence": 30,
-      "last_practiced": "2026-08-19",
-      "total_practice_time": 10
+      "confidence": 51,
+      "last_practiced": "2026-08-20",
+      "total_practice_time": 14
     },
     "speaking": {
       "current_level": 0,
@@ -33,14 +33,14 @@
     "vocabulary": {
       "current_level": 1,
       "confidence": 50,
-      "last_practiced": "2026-08-19",
-      "total_practice_time": 13
+      "last_practiced": "2026-08-20",
+      "total_practice_time": 19
     },
     "reading": {
       "current_level": 1,
-      "confidence": 51,
-      "last_practiced": "2026-08-19",
-      "total_practice_time": 19
+      "confidence": 66,
+      "last_practiced": "2026-08-20",
+      "total_practice_time": 21
     },
     "listening": {
       "current_level": 0,
@@ -97,6 +97,18 @@
       "id": "session_session-003_2_reached_a_3_day_streak",
       "name": "Reached a 3-day streak",
       "earned_date": "2026-08-19",
+      "description": "Reached a 3-day streak"
+    },
+    {
+      "id": "session_session-004_0_first_full_spaced_repetition_r",
+      "name": "First full spaced-repetition review session completed",
+      "earned_date": "2026-08-20",
+      "description": "First full spaced-repetition review session completed"
+    },
+    {
+      "id": "session_session-004_1_reached_a_3_day_streak",
+      "name": "Reached a 3-day streak",
+      "earned_date": "2026-08-20",
       "description": "Reached a 3-day streak"
     }
   ],
